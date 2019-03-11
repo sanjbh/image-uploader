@@ -4,7 +4,7 @@
 $author = getenv('AUTHOR');
 $storage_type = getenv('STORAGE_TYPE');
 
-echo "<title>Image Library Demo Application by " . $author . "</title>";
+echo "<title>Image Library Demo Application by " . $author . " - Ready for test</title>";
 
 ?>
 <style>
